@@ -1,3 +1,8 @@
+### parser for mascot dat file
+### This script is executed with a hyperlink provided by the patch script
+### inside mascot server result loading script
+
+
 use warnings;
 use CGI qw(:standard);
 use CGI::Carp(fatalsToBrowser);

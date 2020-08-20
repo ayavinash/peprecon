@@ -1,4 +1,8 @@
 ######### PepRecon2.0 patch start #############
+### This pathch script can be pasted into the mascot server 
+### result loading script
+ 
+
 
 print '<H3>PepRecon 2.0 evaluation tool</H3>';
 my $DATDIR='D:/inetpub/mascot/data/';     #DAT files folder

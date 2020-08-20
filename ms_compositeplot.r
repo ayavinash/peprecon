@@ -1,3 +1,7 @@
+### This script generates the peprecon composite plot
+### which is served to the user as a png image in the 
+### browser.
+
 # Load required libraries
 library(Hmisc)
 library(lattice)
